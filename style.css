@@ -1,0 +1,15 @@
+h1 {
+  background-color: #703700;
+  border: 3px solid #703700;
+  width: 450px;
+  transform: rotate(-2deg);
+}
+* {
+  color: #FFEDE4;
+}
+a {
+  color: #703700;
+}
+body {
+  background-color: #301400;
+}
