@@ -5,6 +5,7 @@ h1 {
   transform: rotate(-2deg);
 }
 * {
+  font-family: Monospace;
   color: #FFEDE4;
 }
 a {
