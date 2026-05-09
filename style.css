@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Google+Sans');
 h1 {
   background-color: #703700;
   border: 3px solid #703700;
@@ -5,7 +6,7 @@ h1 {
   transform: rotate(-2deg);
 }
 * {
-  font-family: Monospace;
+  font-family: 'Google Sans', sans-serif;
   color: #FFEDE4;
 }
 a {
